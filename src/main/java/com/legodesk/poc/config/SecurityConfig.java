@@ -16,7 +16,6 @@ import java.util.Collections;
 
 
 @Configuration
-@EnableWebSecurity(debug = true)
 public class SecurityConfig {
 
     @Bean
